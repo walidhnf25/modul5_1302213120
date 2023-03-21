@@ -1,0 +1,8 @@
+E:\modul5_1302213120\modul5_1302213120\obj\Debug\modul5_1302213120.csproj.AssemblyReference.cache
+E:\modul5_1302213120\modul5_1302213120\obj\Debug\modul5_1302213120.csproj.SuggestedBindingRedirects.cache
+E:\modul5_1302213120\modul5_1302213120\obj\Debug\modul5_1302213120.csproj.CoreCompileInputs.cache
+E:\modul5_1302213120\modul5_1302213120\bin\Debug\modul5_1302213120.exe.config
+E:\modul5_1302213120\modul5_1302213120\bin\Debug\modul5_1302213120.exe
+E:\modul5_1302213120\modul5_1302213120\bin\Debug\modul5_1302213120.pdb
+E:\modul5_1302213120\modul5_1302213120\obj\Debug\modul5_1302213120.exe
+E:\modul5_1302213120\modul5_1302213120\obj\Debug\modul5_1302213120.pdb
