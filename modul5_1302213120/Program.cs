@@ -11,6 +11,7 @@ namespace modul5_1302213120
     {
         static void Main(string[] args)
         {
+            // soal 1
             Penjumlahan penjumlahan= new Penjumlahan();
             Console.WriteLine(penjumlahan.JumlahTigaAngka<long>(13, 2, 21));
         }
@@ -20,6 +21,7 @@ namespace modul5_1302213120
     {
         public T JumlahTigaAngka<T>( T lhs,  T rhs, T xhs)
         {
+            //soal 1
             return (dynamic)lhs+(dynamic)rhs+(dynamic)xhs;
 
         }
