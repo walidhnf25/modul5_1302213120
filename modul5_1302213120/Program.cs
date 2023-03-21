@@ -16,7 +16,7 @@ namespace modul5_1302213120
             Console.WriteLine(penjumlahan.JumlahTigaAngka<long>(13, 2, 21));
 
             //soal2
-            SimpleDataBase<int> db = new SimpleDataBase<int>();
+            SimpleDataBase<long> db = new SimpleDataBase<long>();
             db.AddNewData(13);
             db.AddNewData(2);
             db.AddNewData(21);
